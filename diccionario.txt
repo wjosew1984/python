@@ -1,0 +1,8 @@
+open-abrir
+close-cerrar
+mouse-raton
+street-calle
+car-auto
+water-agua
+game-juego
+time=tiempo
